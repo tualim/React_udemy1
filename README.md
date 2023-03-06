@@ -1,2 +1,2 @@
-##React project on udemy
-##expense tracker
+# React project on udemy
+## expense tracker
